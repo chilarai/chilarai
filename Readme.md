@@ -1,4 +1,4 @@
-**Hi, I'm Chilarai, a Full-Stack Developer from NOIDA, India.**
+Hi, I'm Chilarai, a Full-Stack Developer from NOIDA, India.
 
 #### NOW
 - ✨ Overseeing tech at [Grafieks Analytics](https://grafieks.com)
