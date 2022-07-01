@@ -11,7 +11,8 @@
 - ⚙️ I use daily: `.go`, `.cpp`, `.php`, `.js`
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about open-source projects
-- 🐦 Reach me: [twitter.com/chilly5476](https://twitter.com/chilly5476), [chilly5476@gmail.com](chilly5476@gmail.com)
+- 🐦 Reach me: [twitter.com/chilly5476](https://twitter.com/chilly5476) 
+- 📧 Mail: [chilly5476@gmail.com](chilly5476@gmail.com)
 - 🏎️ Fun fact: I love **Formula 1**
 
 
