@@ -3,7 +3,7 @@
 **I'm a Full-Stack Developer from NOIDA, India.**
 
 #### NOW
-- ✨ Overseeing tech at [Grafieks](https://grafieks.com)
+- ✨ Overseeing tech at [Grafieks Analytics](https://grafieks.com)
 - 🔥 Founder [Techpro.club](https://techpro.club)
 
 
