@@ -1,7 +1,7 @@
 Hi, I'm Chilarai, a Full-Stack Developer from NOIDA, India.
 
 #### NOW WORKING
-- ✨ Overseeing tech at [Grafieks Analytics](https://grafieks.com)
+- ✨ Working with SpaceAndTime [Spaceandtime](https://spaceandtime.io)
 - 🔥 Founder [Techpro.club](https://techpro.club)
 
 
