@@ -1,8 +1,8 @@
 Hi, I'm Chilarai, a Full-Stack Developer from NOIDA, India.
 
 #### NOW WORKING
-- ✨ Working with [Spaceandtime](https://spaceandtime.io)
-- 🔥 Founder [Techpro.club](https://techpro.club)
+- ✨ Working with [Wreken](https://wreken.com)
+
 
 
 #### BIO
