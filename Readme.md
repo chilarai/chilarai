@@ -1,8 +1,5 @@
 Hi, I'm Chilarai, a Full-Stack Developer from NOIDA, India.
 
-#### NOW WORKING
-- ✨ Working with [Wreken](https://wreken.com)
-
 
 
 #### BIO
